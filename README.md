@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rutik Kale</h1>
 <h3 align="center">A passionate Java & Frontend Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeVOnR_x0wbJPYuciOpqJ_JfjIh8Orlr6GtQ&usqp=CAU)")
+<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/web-designer-programmer-working-desktop-computer-cartoon-woman-coding-different-programming-languages-as-java-python-259450690.jpg)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikbkale&label=Profile%20views&color=0e75b6&style=flat" alt="rutikbkale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutikbkale" alt="rutikbkale" /></a> </p>
