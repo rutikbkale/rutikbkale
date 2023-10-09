@@ -1,9 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/b4ba1b9914b4bab3de659e930300364768649253c1c5f5183427a20d2ae96b78/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi 👋, I'm Rutik Kale</h1>
 <h3 align="center">A passionate Java & Frontend Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/web-designer-programmer-working-desktop-computer-cartoon-woman-coding-different-programming-languages-as-java-python-259450690.jpg)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikbkale&label=Profile%20views&color=0e75b6&style=flat" alt="rutikbkale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutikbkale" alt="rutikbkale" /></a> </p>
