@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring framework, Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rutikbkale/portfolio](https://github.com/rutikbkale/portfolio)
+- 👨‍💻 All of my projects are available at (https://rutikbkale.github.io/portfolio/))
 
 - 💬 Ask me about **Java, JSP, PHP, HTML, CSS, MYSQL**
 
