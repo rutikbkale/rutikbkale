@@ -26,7 +26,7 @@ I'm a Java developer passionate about creating efficient and scalable software s
 Here are some of my notable projects:
 
 1. Airline Reservation System(https://github.com/rutikbkale/A_R_S_Project)
-2. MusicHub(https://github.com/rutikbkale/musichub)
+2. MusicHub(https://musichub.freewebhostmost.com/)
 3. Online Blood Bank Management System(https://github.com/rutikbkale/OBBMSBS)
 
 Feel free to explore more on my GitHub repositories!
